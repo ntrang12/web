@@ -1,0 +1,17 @@
+.tieu_de  {
+    font-weigh:  bold;
+    color:magenta ; 
+    font-family: Arial, sans-serif; 
+    font-size: 18pt; 
+}
+.noi_dung {
+    font-style: italic; 
+    color:forestgreen; 
+    font-family: Arial, sans-serif; 
+    font-size: 14pt; 
+}
+.sieu_lien_ket  {
+    font-style: italic; 
+    text-decoration: none; 
+    color: green; 
+}
